@@ -56,7 +56,7 @@ public abstract class Card{
 			// drawUnit()
 			// setPlayer1Mana()
 			// ...
-			System.out.println("execute drawUnit() ..."
+			System.out.println("execute drawUnit( , int unitKindID) ..."
 					+ "setPlayer1Mana() ...");
 		}
 
@@ -87,7 +87,7 @@ public abstract class Card{
 			// setUnitHealth()
 			// setPlayer1Mana()
 			// ...
-			System.out.println("execute setUnitHealth() ..."
+			System.out.println("execute setUnitHealth( , int 0) ..."
 					+ "setPlayer1Mana() ...");
 		}
 
@@ -114,7 +114,7 @@ public abstract class Card{
 		private static Card single_instance = null;
 
 		public void executeCombo() {
-			System.out.println("execute setPlayer1Health( ,+2) ..."
+			System.out.println("execute setPlayer1Health( ,int health+2) ..."
 					+ "setPlayer1Mana() ...");
 		}
 
