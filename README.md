@@ -135,10 +135,10 @@ The functions of the system include the following:
 7. Sellers and buyers can rate and comment on their integrity after the transaction is completed. And displayed on the personal home page.
 8. Administrators can view details of all users and products as well as transaction history. 
 
-## Contact
+## Contributers
 
-- Mr Dai: 262****D
-- Mr Ma: 263****M
-- Mrs He: 251****H 
-- Mr Yang: 262****Y
-- Mr Wang: 252****W
+- Mr Dai
+- Mr Ma
+- Mrs He
+- Mr Yang
+- Mr Wang
